@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&color=4E47FF&size=30&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+duc+thinh.)](https://git.io/typing-svg)
+# Hey 👋, I'm Duc Thinh.
+
+<img hight="100" width="100" alt="GIF" align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
 
 [![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@thinhduc20)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
@@ -6,30 +8,34 @@
 [![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
 [![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
 
-</br>
+
 </br>
 </br>
  
  
-# About ME 💬 :
+# 👩‍💻About ME 💬 :
 
 ## - I'm 17 years old from Vietnamese.
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 ### - Learning :
 
+- ✨ Back-end
 - ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+- ✨ English
 
 ### - Hobbies :
 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ My fav music type: Rap, Hip Hop
+- ✨ Watching One Piece
+- ✨ The Superb shoes enthusiast
+- ✨ Tech-loving
+- ✨ Travelling around the world
   </br>
   </br>
 
-# Technology being learned
+# 🏫Technology being learned
 
 </br>
 
@@ -49,7 +55,7 @@
 ![Github](https://img.shields.io/badge/-github-%23121011?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
-## 𝗦𝘁𝗮𝘁𝘀
+# ⭐𝗦𝘁𝗮𝘁𝘀⭐
 
 <div>
  <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
