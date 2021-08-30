@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&lines=Hey+%F0%9F%91%8B%2C+I'm+duc+thinh.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&color=4E47FF&size=30&multiline=true&lines=Hey+%F0%9F%91%8B%2C+I'm+duc+thinh.)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@thinhduc20)
 [![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
@@ -14,8 +14,6 @@
 # About ME 💬 :
 
 ## - I'm 17 years old from Vietnamese.
-
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
 ### - Learning :
 
@@ -53,5 +51,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
+<div>
  <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
+</div>
