@@ -1,48 +1,57 @@
-# Hey 👋, I'm duc thinh.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&lines=Hey+%F0%9F%91%8B%2C+I'm+duc+thinh.)](https://git.io/typing-svg)
 
+[![](https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@thinhduc20)
+[![](https://img.shields.io/badge/-Github-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
+[![](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
+[![](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
+[![](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=LinkedIn&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
 
-[![](https://img.shields.io/badge/-@ducthinh-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/@thinhduc20)
-[![](https://img.shields.io/badge/-@ducthinh-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
-[![](https://img.shields.io/badge/-@ducthinh-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff)](https://www.facebook.com/ducthinh1810)
+</br>
+</br>
+</br>
+ 
+ 
+# About ME 💬 :
 
+## - I'm 17 years old from Vietnamese.
 
-𝑰 ❤️ 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
-:computer: 𝑺𝒆𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓, 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒃𝒂𝒔𝒆𝒅 𝒊𝒏 𝑩𝒆𝒊𝒋𝒊𝒏𝒈, 𝒂𝒕 [JD.com](https://jd.com).
+### - Learning :
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
+- ✨ Data Structures & Algorithms
+- ✨ Generative Adversarial Networks
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+### - Hobbies :
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+  </br>
+  </br>
+
+# Technology being learned
+
+</br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vuedotjs)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
-![Windicss](https://img.shields.io/badge/-WindiCss-%23000000?style=flat-square&logo=tailwind-css&&logoColor=48B0F1)
+![Angular](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular)
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Rollup](https://img.shields.io/badge/-Rollup-%23EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![C#](https://img.shields.io/badge/-c%23-%23239120?style=flat-square&logo=c-sharp)
+![.Net](https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=.net)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+![Github](https://img.shields.io/badge/-github-%23121011?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
-1
+ <img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
